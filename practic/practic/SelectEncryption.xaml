@@ -1,0 +1,54 @@
+﻿<Window x:Class="practic.SelectEncryption"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practic"
+        mc:Ignorable="d"
+        Icon="/icon.png"
+        Title="Выбор метода шифрования" Height="600" Width="800" ResizeMode="NoResize" Background="#E1DFFF">
+    <Window.Resources>
+        <ControlTemplate TargetType="Button" x:Key="ButtonTemplate">
+            <Border x:Name="buttonBorder"
+                    CornerRadius="15"
+                    BorderBrush="#39acac"
+                    BorderThickness="2"
+                    Background="#a1c5e5"
+                    Height="{TemplateBinding Height}"
+                    Width="{TemplateBinding Width}"
+                    Cursor="Hand">
+                <ContentControl Margin="{TemplateBinding Padding}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                Content="{TemplateBinding Content}"
+                                Foreground="White"
+                                FontWeight="{TemplateBinding FontWeight}"
+                                FontSize="14"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter TargetName="buttonBorder" Property="Background" Value="#67a2d5" />
+                    <Setter TargetName="buttonBorder" Property="BorderBrush" Value="#319494" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Border Background="#92A1FF" BorderThickness="1" HorizontalAlignment="Center" Height="470" VerticalAlignment="Center" Width="670" CornerRadius="20,20,20,20">
+            <Grid>
+                <Label Content="Бесключевые методы:" FontSize="14" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="70,50,0,0" VerticalAlignment="Top" Width="274" Height="30"/>
+                <Button Template="{StaticResource ButtonTemplate}" x:Name="MD5" Height="50" Width="200" Content="MD5" Margin="380,40,0,0" VerticalAlignment="Top" FontWeight="Bold" HorizontalAlignment="Left" Click="MD5_Click"/>
+                <Button Template="{StaticResource ButtonTemplate}" x:Name="SHA2" Height="50" Width="200" Content="SHA-2" Margin="380,115,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Click="SHA2_Click"/>
+
+                <Label Content="Одноключевые методы:" FontSize="14" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="70,220,0,0" VerticalAlignment="Top" Width="274" Height="30"/>
+                <Button Template="{StaticResource ButtonTemplate}" x:Name="Serpent" Height="50" Width="200" Content="Serpent" Margin="380,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" Click="Serpent_Click"/>
+                <Button Template="{StaticResource ButtonTemplate}" x:Name="Idea" Height="50" Width="200" Content="Idea" Margin="380,285,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Click="Idea_Click"/>
+
+                <Label Content="Двухключевые методы:" FontSize="14" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="70,390,0,0" VerticalAlignment="Top" Width="274" Height="30"/>
+                <Button Template="{StaticResource ButtonTemplate}" x:Name="RSA" Height="50" Width="200" Content="RSA" Margin="380,380,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Click="RSA_Click"/>
+            </Grid>
+        </Border>
+        <Button Template="{StaticResource ButtonTemplate}" x:Name="Back" Height="30" Width="100" Content="Назад" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Click="Back_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="practic.LoadKeysWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practic"
+        mc:Ignorable="d"
+        Icon="/icon.png"
+        Title="Введите имя файла: " Height="135" Width="200" ResizeMode="NoResize" Background="#E1DFFF">
+    <Window.Resources>
+        <ControlTemplate TargetType="Button" x:Key="ButtonTemplate">
+            <Border x:Name="buttonBorder"
+                    CornerRadius="15"
+                    BorderBrush="#39acac"
+                    BorderThickness="2"
+                    Background="#a1c5e5"
+                    Cursor="Hand">
+                <ContentControl Margin="{TemplateBinding Padding}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                Content="{TemplateBinding Content}"
+                                Foreground="White"
+                                FontWeight="{TemplateBinding FontWeight}"
+                                FontSize="14"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter TargetName="buttonBorder" Property="Background" Value="#67a2d5" />
+                    <Setter TargetName="buttonBorder" Property="BorderBrush" Value="#319494" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Button Template="{StaticResource ButtonTemplate}" x:Name="Load_Button" Content="Загрузить" Click="Load_Button_Click" Height="35" VerticalAlignment="Top" HorizontalAlignment="Center" Width="100" Margin="0,50,0,0"/>
+        <TextBox x:Name="OpenFileName_TextBox" HorizontalAlignment="Center" Margin="0,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Height="20"/>
+    </Grid>
+</Window>

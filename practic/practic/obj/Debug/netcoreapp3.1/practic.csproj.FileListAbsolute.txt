@@ -1,0 +1,120 @@
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.csprojAssemblyReference.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.lref
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.exe
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.deps.json
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.json
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.dev.json
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.dll
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\practic.pdb
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.g.resources
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfoInputs.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfo.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.CoreCompileInputs.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.dll
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.pdb
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.genruntimeconfig.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\MD5.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\MD5.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SHA2.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SHA2.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Serpent.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Serpent.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Idea.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\RSA.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Idea.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\RSA.baml
+C:\Study\4 семестр\Практика\practic\practic\bin\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.ResolveComReference.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.baml
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.exe
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.deps.json
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.json
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.dev.json
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.dll
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\practic.pdb
+C:\Users\HP-PC\Downloads\practic\practic\bin\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.csprojAssemblyReference.cache
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.ResolveComReference.cache
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Idea.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\MD5.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\RSA.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Serpent.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SHA2.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.cache
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.lref
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Idea.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\MD5.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\RSA.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Serpent.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SHA2.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.g.resources
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfoInputs.cache
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfo.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.dll
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.pdb
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\practic.genruntimeconfig.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.exe
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.deps.json
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.json
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.runtimeconfig.dev.json
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.dll
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\practic.pdb
+C:\Study\4 семестр\Практика\Андрей\practic\practic\bin\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.csprojAssemblyReference.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.ResolveComReference.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\Idea.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\MD5.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\RSA.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\Serpent.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\SHA2.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic_MarkupCompile.lref
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\DialogWindow.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\Idea.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\MD5.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\RSA.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\SelectEncryption.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\Serpent.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\SHA2.baml
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.g.resources
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfoInputs.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.AssemblyInfo.cs
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.csproj.CoreCompileInputs.cache
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.dll
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.pdb
+C:\Study\4 семестр\Практика\Андрей\practic\practic\obj\Debug\netcoreapp3.1\practic.genruntimeconfig.cache
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Saving.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\Saving.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Saving.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\Saving.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\LoadKeysWindow.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SaveKeysWindow.g.cs
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\LoadKeysWindow.baml
+C:\Users\HP-PC\Downloads\practic\practic\obj\Debug\netcoreapp3.1\SaveKeysWindow.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\LoadKeysWindow.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SaveKeysWindow.g.cs
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\LoadKeysWindow.baml
+C:\Study\4 семестр\Практика\practic\practic\obj\Debug\netcoreapp3.1\SaveKeysWindow.baml

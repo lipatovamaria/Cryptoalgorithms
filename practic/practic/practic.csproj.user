@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="DialogWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Idea.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoadKeysWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MD5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RSA.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SaveKeysWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Saving.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelectEncryption.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Serpent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SHA2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DialogWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Idea.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoadKeysWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MD5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RSA.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SaveKeysWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Saving.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SelectEncryption.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Serpent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SHA2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
